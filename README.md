@@ -27,4 +27,6 @@ to use pdf_autosign follow folder structure should be created first
 ```
 
 the script will search fields with text setted in:
-```main_sign_txt``` and ```sub_sign_txt``` and place main_sign.png to the main_sign text field an random sign from random_signs folder to sub_sign text field
+```main_sign_txt``` and ```sub_sign_txt``` and place main_sign.png to the main_sign text field an random sign from random_signs folder to sub_sign text field correspondingly.
+
+Folder ```signed``` will be created automatically and all signed pdfs will be placed there
