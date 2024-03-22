@@ -9,19 +9,20 @@ python pdf_autosign.py
 ### folder structure
 to use pdf_autosign follow folder structure should be created first
 
-# Project tree
 ``` bash
 .my_folder_with_pdfs
 ├── data
 │   ├── main_sign
-│   │   └── main_sing.png
+│   │   └── main_sign.png
 │   └── random_signs
 │       ├── random_sign1.png
 │       ├── random_sign2.png
+│       ├── ...
 │       └── random_signN.png
 ├── pdf_autosign.py
 ├── to_sign_pdf1.pdf
 ├── to_sign_pdf2.pdf
+│   ...
 └── to_sign_pdfN.pdf
 ```
 
